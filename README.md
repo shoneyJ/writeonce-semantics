@@ -11,6 +11,7 @@ Search the research documents for semantic similarities, return a prompt responc
 ## Milvus Lite
 
 ```
-pip install -U pymilvus
+pip install -r requirements.txt
 ```
+[https://sbert.net/](https://sbert.net/)
 
