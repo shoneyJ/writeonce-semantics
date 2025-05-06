@@ -15,3 +15,7 @@ pip install -r requirements.txt
 ```
 [https://sbert.net/](https://sbert.net/)
 
+sentence-transformer for embedding the documents
+
+
+Mistral for LLM
